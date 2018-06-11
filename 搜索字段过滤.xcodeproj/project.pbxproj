@@ -56,6 +56,7 @@
 		1875BEAA20CE659A0068DC94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1875BEB620CE69EE0068DC94 /* WZiSWhiteSpace.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WZiSWhiteSpace.h; sourceTree = "<group>"; };
 		1875BEB720CE69EE0068DC94 /* WZiSWhiteSpace.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WZiSWhiteSpace.m; sourceTree = "<group>"; };
+		1875BEBD20CE8B0B0068DC94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +87,7 @@
 		1875BE7520CE65980068DC94 = {
 			isa = PBXGroup;
 			children = (
+				1875BEBD20CE8B0B0068DC94 /* README.md */,
 				1875BE8020CE65980068DC94 /* 搜索字段过滤 */,
 				1875BE9C20CE659A0068DC94 /* 搜索字段过滤Tests */,
 				1875BEA720CE659A0068DC94 /* 搜索字段过滤UITests */,
